@@ -32,48 +32,44 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 Step 1: Create an Azure Virtual Machine with Windows 10 and connect using Remote Desktop. Make sure your Network Security Groups allow RDP. Then log into the VM with Remote Desktop.
 </p>
-<br />
 <p>
 <img width="1445" height="702" alt="image" src="https://github.com/user-attachments/assets/01d2dee9-e759-4b39-9d0f-5879c7e7f14b" />
 </p>
-<p>
+<br />
 
 Step 2: Enable IIS by going to Control Panel → Programs → Turn Windows Features On or Off → and check Internet Information Services, World Wide Web Services, Application Development Feautures, then CGI.
 </p>
-<br />
 <p>
 <img width="347" height="357" alt="image" src="https://github.com/user-attachments/assets/3ccbad3f-0437-4dc1-b6b4-5a51d309cb01" />
 </p>
-<p>
+<br />
 
 Step 3: Install PHP Manager for IIS
 </p>
-<br />
 <p>
 <img width="671" height="564" alt="image" src="https://github.com/user-attachments/assets/7142cc37-8375-43b9-ae08-cbfe247706b7" /> 
 </p>
-<p>
+<br />
 
 Step 4: IIS Rewrite Module.
 </p>
-<br />
 <p>
 <img width="684" height="496" alt="image" src="https://github.com/user-attachments/assets/890ba926-4c12-42c6-9eaa-5206bda0cd95" />
 </p>
-<p>
-
+<br />
+  
 <p>
 Step 5: Download and install MySQL Server.  
 </p>
-<br />
 <p>
 <img width="680" height="547" alt="image" src="https://github.com/user-attachments/assets/109d1b0b-f8c2-4bd1-8dd2-cf9a5a32d818" />
 </p>
+<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 6: Open IIS as an Admin and Register PHP from within IIS. Then reload (Open IIS, Stop and Start the Server)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="1495" height="941" alt="image" src="https://github.com/user-attachments/assets/d29445fa-a1bd-41b9-84dd-68384a2f8dad" />
 </p>
 <br />

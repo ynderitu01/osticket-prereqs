@@ -26,7 +26,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Internet Information Services (IIS) installed  
 - PHP Manager for IIS  
 - Rewrite Module for IIS  
-- MySQL Database 
+- MySQL Database
+- Register PHP from within IIS
+- Install osTicket-v1.15.8
 
 <h2>Installation Steps</h2>
 
@@ -75,14 +77,14 @@ Step 6: Open IIS as an Admin and Register PHP from within IIS. Then reload (Open
 <br />
 
 <p>
-Step 7: install osTicket-v1.15.8. Copy osTicket-v1.15.8 upload folder into c:\inetpub\wwwroot and rename the upload folder to osTicket. Then reload IIS. (Open IIS Stop and Start Server)
+Step 7: Install osTicket-v1.15.8. Copy osTicket-v1.15.8 upload folder into c:\inetpub\wwwroot and rename the upload folder to osTicket. Then reload IIS. (Open IIS Stop and Start Server)
 </p>
 <p>
-<img width="1377" height="717" alt="image" src="https://github.com/user-attachments/assets/cb111f05-3d20-4358-bb10-81282bfbd38c" />
+<img width="1403" height="798" alt="image" src="https://github.com/user-attachments/assets/5e29266a-9418-4898-9a41-b44272b35eb7" />
 </p>
 <br />S
 <p>
-Step 8: Open IIS as an Admin and Register PHP from within IIS. Then reload (Open IIS, Stop and Start the Server)
+Step 8: 
 </p>
 <p>
 <img width="1495" height="941" alt="image" src="https://github.com/user-attachments/assets/d29445fa-a1bd-41b9-84dd-68384a2f8dad" />
@@ -90,7 +92,7 @@ Step 8: Open IIS as an Admin and Register PHP from within IIS. Then reload (Open
 <br />
 
 <p>
-Step 6: Open IIS as an Admin and Register PHP from within IIS. Then reload (Open IIS, Stop and Start the Server)
+Step 9:
 </p>
 <p>
 <img width="1495" height="941" alt="image" src="https://github.com/user-attachments/assets/d29445fa-a1bd-41b9-84dd-68384a2f8dad" />

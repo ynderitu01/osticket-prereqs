@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Internet Information Services (IIS) installed  
 - PHP Manager for IIS  
 - Rewrite Module for IIS  
-- MySQL Database (latest stable version)  
+- MySQL Database 
 
 <h2>Installation Steps</h2>
 

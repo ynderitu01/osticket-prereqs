@@ -34,15 +34,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="1445" height="702" alt="image" src="https://github.com/user-attachments/assets/01d2dee9-e759-4b39-9d0f-5879c7e7f14b" />
 </p>
 <p>
-Step 1: Create an Azure Virtual Machine with Windows 10 and connect using Remote Desktop. Make sure your Network Security Groups allow RDP.
+Step 1: Create an Azure Virtual Machine with Windows 10 and connect using Remote Desktop. Make sure your Network Security Groups allow RDP. Then log into the VM with Remote Desktop
 </p>
 <br />
 
 <p>
-<img width="350" height="274" alt="image" src="https://github.com/user-attachments/assets/3a991009-894a-45a4-b9f4-b9daf4897220" />
+<img width="347" height="357" alt="image" src="https://github.com/user-attachments/assets/3ccbad3f-0437-4dc1-b6b4-5a51d309cb01" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 2: Enable IIS by going to Control Panel → Programs → Turn Windows Features On or Off → and check Internet Information Services, World Wide Web Services, Application Development Feautures, then CGI.
 </p>
 <br />
 

@@ -46,18 +46,21 @@ Step 2: Enable IIS by going to Control Panel → Programs → Turn Windows Featu
 </p>
 <p>
 
-Step 3: Install PHP Manager for IIS and IIS Rewrite Module.
+Step 3: Install PHP Manager for IIS
 </p>
 <br />
 <p>
-<img width="671" height="564" alt="image" src="https://github.com/user-attachments/assets/7142cc37-8375-43b9-ae08-cbfe247706b7" /> <img width="684" height="496" alt="image" src="https://github.com/user-attachments/assets/890ba926-4c12-42c6-9eaa-5206bda0cd95" />
+<img width="671" height="564" alt="image" src="https://github.com/user-attachments/assets/7142cc37-8375-43b9-ae08-cbfe247706b7" /> 
 </p>
 <p>
 
-  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step 4: IIS Rewrite Module.
 </p>
 <br />
+<p>
+<img width="684" height="496" alt="image" src="https://github.com/user-attachments/assets/890ba926-4c12-42c6-9eaa-5206bda0cd95" />
+</p>
+<p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

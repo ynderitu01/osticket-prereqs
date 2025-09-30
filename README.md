@@ -50,7 +50,11 @@ Step 2: Enable IIS by going to Control Panel → Programs → Turn Windows Featu
 <img width="1016" height="345" alt="image" src="https://github.com/user-attachments/assets/62a64f41-e34b-4c5f-9d3f-4398551016ac" />
 </p>
 <p>
-Step 3: Download osTicket installation files and unzip onto your desktop.
+### Step 3: Install PHP and Extensions  
+Install the following components:  
+- PHP Manager for IIS  
+- IIS Rewrite Module  
+- PHP files  
 </p>
 <br />
 

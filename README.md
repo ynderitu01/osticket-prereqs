@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo" width="200"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud-Microsoft%20Azure-blue?logo=microsoftazure&logoColor=white" />
@@ -10,7 +8,6 @@
   <img src="https://img.shields.io/badge/App-osTicket%20v1.15.8-orange?logo=helpdesk&logoColor=white" />
 </p>
 
-# osTicket - Prerequisites and Installation  
 
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>

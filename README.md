@@ -66,19 +66,16 @@ It covers setting up IIS, PHP, MySQL, HeidiSQL, and completing the osTicket inst
 <img width="400" alt="Rewrite Module" src="https://github.com/user-attachments/assets/890ba926-4c12-42c6-9eaa-5206bda0cd95" />  
 <br />
   
-<p>
 ##Step 5: Download and install MySQL Server.  
 </p>
 <img width="400" alt="MySQL Setup" src="https://github.com/user-attachments/assets/109d1b0b-f8c2-4bd1-8dd2-cf9a5a32d818" />  
 <br />
 
-<p>
 ##Step 6: Open IIS as an Admin and Register PHP from within IIS. Then reload (Open IIS, Stop and Start the Server)
 </p>
 <img width="600" alt="Register PHP" src="https://github.com/user-attachments/assets/d29445fa-a1bd-41b9-84dd-68384a2f8dad" /> 
 <br />
 
-<p>
 ##Step 7: Install osTicket-v1.15.8. Copy osTicket-v1.15.8 upload folder into c:\inetpub\wwwroot and rename the upload folder to osTicket. Then reload IIS. (Open IIS Stop and Start Server)
 </p>
 <img width="600" alt="osTicket Install" src="https://github.com/user-attachments/assets/5e29266a-9418-4898-9a41-b44272b35eb7" />  
@@ -89,13 +86,12 @@ It covers setting up IIS, PHP, MySQL, HeidiSQL, and completing the osTicket inst
 <p><img width="600" alt="HeidiSQL" src="https://github.com/user-attachments/assets/fac796b1-6384-4be6-a749-6fd26f4c8160" />  
 <br />
 
-<p>
 ##Step 9: Complete osTicket Setup In browser → Assign permissions → Click Install Now.  
 </p>
 <p><img width="600" alt="osTicket Setup" src="https://github.com/user-attachments/assets/9d061bd1-103c-495c-8d75-201a9bec322e" /> 
 <br />
 
-#🎉Done!  
+##🎉Done!  
 You now have osTicket successfully installed on your VM.  
 Next steps: configure departments, users, SLAs, and email piping for full help desk functionality.  
 

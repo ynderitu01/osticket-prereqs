@@ -1,9 +1,24 @@
 <p align="center">
+  <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-Microsoft%20Azure-blue?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Windows%2010-0078D6?logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Server-IIS-lightgrey?logo=microsoft&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/App-osTicket%20v1.15.8-orange?logo=helpdesk&logoColor=white" />
+</p>
+
+# osTicket - Prerequisites and Installation  
+
+<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial demonstrates how to install and configure **osTicket v1.15.8** on a Windows 10 VM hosted in Microsoft Azure.  
+It covers setting up IIS, PHP, MySQL, HeidiSQL, and completing the osTicket installation.   <br />
 
 
 <h2>Video Demonstration</h2>
@@ -20,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>✅List of Prerequisites</h2>
 
 - Azure Virtual Machine running Windows 10  
 - Internet Information Services (IIS) installed  
@@ -30,32 +45,32 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Register PHP from within IIS
 - Install osTicket-v1.15.8
 - Install HeidiSQL
-- Set up osTicket
+- Complete osTicket set up
 
 <h2>Installation Steps</h2>
 
-Step 1: Create an Azure Virtual Machine with Windows 10 and connect using Remote Desktop. Make sure your Network Security Groups allow RDP. Then log into the VM with Remote Desktop.
+##Step 1: Create an Azure Virtual Machine with Windows 10 and connect using Remote Desktop. Make sure your Network Security Groups allow RDP. Then log into the VM with Remote Desktop.
 </p>
 <p>
 <img width="1445" height="702" alt="image" src="https://github.com/user-attachments/assets/01d2dee9-e759-4b39-9d0f-5879c7e7f14b" />
 </p>
 <br />
 
-Step 2: Enable IIS by going to Control Panel → Programs → Turn Windows Features On or Off → and check Internet Information Services, World Wide Web Services, Application Development Feautures, then CGI.
+##Step 2: Enable IIS by going to Control Panel → Programs → Turn Windows Features On or Off → and check Internet Information Services, World Wide Web Services, Application Development features, then CGI.
 </p>
 <p>
 <img width="347" height="357" alt="image" src="https://github.com/user-attachments/assets/3ccbad3f-0437-4dc1-b6b4-5a51d309cb01" />
 </p>
 <br />
 
-Step 3: Install PHP Manager for IIS
+##Step 3: Install PHP Manager for IIS  
 </p>
 <p>
 <img width="671" height="564" alt="image" src="https://github.com/user-attachments/assets/7142cc37-8375-43b9-ae08-cbfe247706b7" /> 
 </p>
 <br />
 
-Step 4: IIS Rewrite Module.
+##Step 4: Install IIS Rewrite Module  
 </p>
 <p>
 <img width="684" height="496" alt="image" src="https://github.com/user-attachments/assets/890ba926-4c12-42c6-9eaa-5206bda0cd95" />
@@ -63,7 +78,7 @@ Step 4: IIS Rewrite Module.
 <br />
   
 <p>
-Step 5: Download and install MySQL Server.  
+##Step 5: Download and install MySQL Server.  
 </p>
 <p>
 <img width="680" height="547" alt="image" src="https://github.com/user-attachments/assets/109d1b0b-f8c2-4bd1-8dd2-cf9a5a32d818" />
@@ -71,7 +86,7 @@ Step 5: Download and install MySQL Server.
 <br />
 
 <p>
-Step 6: Open IIS as an Admin and Register PHP from within IIS. Then reload (Open IIS, Stop and Start the Server)
+##Step 6: Open IIS as an Admin and Register PHP from within IIS. Then reload (Open IIS, Stop and Start the Server)
 </p>
 <p>
 <img width="1495" height="941" alt="image" src="https://github.com/user-attachments/assets/d29445fa-a1bd-41b9-84dd-68384a2f8dad" />
@@ -79,14 +94,14 @@ Step 6: Open IIS as an Admin and Register PHP from within IIS. Then reload (Open
 <br />
 
 <p>
-Step 7: Install osTicket-v1.15.8. Copy osTicket-v1.15.8 upload folder into c:\inetpub\wwwroot and rename the upload folder to osTicket. Then reload IIS. (Open IIS Stop and Start Server)
+##Step 7: Install osTicket-v1.15.8. Copy osTicket-v1.15.8 upload folder into c:\inetpub\wwwroot and rename the upload folder to osTicket. Then reload IIS. (Open IIS Stop and Start Server)
 </p>
 <p>
 <img width="1403" height="798" alt="image" src="https://github.com/user-attachments/assets/5e29266a-9418-4898-9a41-b44272b35eb7" />
 </p>
-<br />S
+<br />
 <p>
-Step 8: Install HeidiSQL. Open Heidi SQL, Create a new session, connect to the session, the create a databse named osTicket
+##Step 8: Install HeidiSQL Open HeidiSQL → Create session → Connect → Create database named `osTicket`.  
 </p>
 <p>
 <img width="958" height="738" alt="image" src="https://github.com/user-attachments/assets/fac796b1-6384-4be6-a749-6fd26f4c8160" />
@@ -94,12 +109,16 @@ Step 8: Install HeidiSQL. Open Heidi SQL, Create a new session, connect to the s
 <br />
 
 <p>
-Step 9: Set up osTicket and assign Permission in browser, then click install now.
+##Step 9: Complete osTicket Setup In browser → Assign permissions → Click Install Now.  
 </p>
 <p>
 <img width="1059" height="972" alt="image" src="https://github.com/user-attachments/assets/9d061bd1-103c-495c-8d75-201a9bec322e" />
 </p>
 <br />
+
+#🎉Done!  
+You now have osTicket successfully installed on your VM.  
+Next steps: configure departments, users, SLAs, and email piping for full help desk functionality.  
 
 
 

@@ -29,6 +29,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - MySQL Database
 - Register PHP from within IIS
 - Install osTicket-v1.15.8
+- Install HeidiSQL
+- Set up osTicket
 
 <h2>Installation Steps</h2>
 
@@ -84,18 +86,18 @@ Step 7: Install osTicket-v1.15.8. Copy osTicket-v1.15.8 upload folder into c:\in
 </p>
 <br />S
 <p>
-Step 8: 
+Step 8: Install HeidiSQL. Open Heidi SQL, Create a new session, connect to the session, the create a databse named osTicket
 </p>
 <p>
-<img width="1495" height="941" alt="image" src="https://github.com/user-attachments/assets/d29445fa-a1bd-41b9-84dd-68384a2f8dad" />
+<img width="958" height="738" alt="image" src="https://github.com/user-attachments/assets/fac796b1-6384-4be6-a749-6fd26f4c8160" />
 </p>
 <br />
 
 <p>
-Step 9:
+Step 9: Set up osTicket and assign Permission in browser, then click install now.
 </p>
 <p>
-<img width="1495" height="941" alt="image" src="https://github.com/user-attachments/assets/d29445fa-a1bd-41b9-84dd-68384a2f8dad" />
+<img width="1059" height="972" alt="image" src="https://github.com/user-attachments/assets/9d061bd1-103c-495c-8d75-201a9bec322e" />
 </p>
 <br />
 

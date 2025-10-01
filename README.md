@@ -13,7 +13,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1># osTicket - Prerequisites and Installation 👩🏽‍💻</h1>
 This tutorial demonstrates how to install and configure **osTicket v1.15.8** on a Windows 10 VM hosted in Microsoft Azure.  
 It covers setting up IIS, PHP, MySQL, HeidiSQL, and completing the osTicket installation.   <br />
 

@@ -46,12 +46,17 @@ It covers setting up IIS, PHP, MySQL, HeidiSQL, and completing the osTicket inst
 
 <h2>Installation Steps</h2>
 
-##Step 1: Create an Azure Virtual Machine with Windows 10 and connect using Remote Desktop. Make sure your Network Security Groups allow RDP. Then log into the VM with Remote Desktop.
+##Step 1: Create an Azure Virtual Machine with Windows 10, 4 vCPUs. Name the Virtual Machine osticket-vm and create user name and pasword.
 </p>
 <img width="700" alt="Azure VM" src="https://github.com/user-attachments/assets/01d2dee9-e759-4b39-9d0f-5879c7e7f14b" />  
 <br />
 
-##Step 2: Enable IIS by going to Control Panel → Programs → Turn Windows Features On or Off → and check Internet Information Services, World Wide Web Services, Application Development features, then CGI.
+##Step 2: Log into the VM with Remote Desktop using the VM Public IP address. 
+</p> 
+<img width="1510" height="927" alt="Screenshot 2025-10-07 181642" src="https://github.com/user-attachments/assets/2b2b5052-ddaa-4e35-a6f5-2974beb74981" />
+<br />
+
+##Step 3: Enable IIS by going to Control Panel → Programs → Turn Windows Features On or Off → and check Internet Information Services, World Wide Web Services, Application Development features, then CGI.
 </p>
 <img width="350" alt="IIS Setup" src="https://github.com/user-attachments/assets/3ccbad3f-0437-4dc1-b6b4-5a51d309cb01" />  
 <br />

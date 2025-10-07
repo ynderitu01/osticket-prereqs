@@ -53,7 +53,7 @@ It covers setting up IIS, PHP, MySQL, HeidiSQL, and completing the osTicket inst
 
 ##Step 2: Log into the VM with Remote Desktop using the VM Public IP address. 
 </p> 
-<img width="400" alt="Screenshot 2025-10-07 181642" src="https://github.com/user-attachments/assets/2b2b5052-ddaa-4e35-a6f5-2974beb74981" />
+<img width="600" alt="Screenshot 2025-10-07 181642" src="https://github.com/user-attachments/assets/2b2b5052-ddaa-4e35-a6f5-2974beb74981" />
 <br />
 
 ##Step 3: Enable IIS by going to Control Panel → Programs → Turn Windows Features On or Off → and check Internet Information Services, World Wide Web Services, Application Development features, then CGI.

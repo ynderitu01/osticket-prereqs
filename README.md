@@ -60,7 +60,7 @@ It covers setting up IIS, PHP, MySQL, HeidiSQL, and completing the osTicket inst
 ##Step 3: Within the VM (osticket-vm), download osTicket-Installation-Files.zip and unzip it onto your desktop. name the foler osTicket-Installation-Files.
 We will use the files in this folder to install osTicket and some of the dependencies.
 </p>
-<img width="1023" height="540" alt="image" src="https://github.com/user-attachments/assets/f49c2afc-fcd5-46c8-a040-ddb67d23d1fd" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/eb6fae71-1eac-4690-b202-c003510a6939" />
 <br />
 
 ##Step 4: Enable IIS in Windows WITH CGI. Control Panel → Programs → Turn Windows Features On or Off → and check Internet Information Services, World Wide Web Services, Application Development features, then CGI.

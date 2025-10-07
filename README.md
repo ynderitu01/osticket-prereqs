@@ -34,7 +34,8 @@ It covers setting up IIS, PHP, MySQL, HeidiSQL, and completing the osTicket inst
 
 <h2>✅List of Prerequisites</h2>
 
-- Azure Virtual Machine running Windows 10  
+- Azure Virtual Machine running Windows 10, 4 vCPUs
+- Renote Desktop Log in
 - Internet Information Services (IIS) installed  
 - PHP Manager for IIS  
 - Rewrite Module for IIS  
@@ -56,7 +57,7 @@ It covers setting up IIS, PHP, MySQL, HeidiSQL, and completing the osTicket inst
 <img width="600" alt="Screenshot 2025-10-07 181642" src="https://github.com/user-attachments/assets/2b2b5052-ddaa-4e35-a6f5-2974beb74981" />
 <br />
 
-##Step 3: Enable IIS by going to Control Panel → Programs → Turn Windows Features On or Off → and check Internet Information Services, World Wide Web Services, Application Development features, then CGI.
+##Step 3: Enable IIS in Windows WITH CGI. Control Panel → Programs → Turn Windows Features On or Off → and check Internet Information Services, World Wide Web Services, Application Development features, then CGI.
 </p>
 <img width="350" alt="IIS Setup" src="https://github.com/user-attachments/assets/3ccbad3f-0437-4dc1-b6b4-5a51d309cb01" />  
 <br />

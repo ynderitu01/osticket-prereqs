@@ -57,22 +57,28 @@ It covers setting up IIS, PHP, MySQL, HeidiSQL, and completing the osTicket inst
 <img width="600" alt="Screenshot 2025-10-07 181642" src="https://github.com/user-attachments/assets/2b2b5052-ddaa-4e35-a6f5-2974beb74981" />
 <br />
 
-##Step 3: Enable IIS in Windows WITH CGI. Control Panel → Programs → Turn Windows Features On or Off → and check Internet Information Services, World Wide Web Services, Application Development features, then CGI.
+##Step 3: Within the VM (osticket-vm), download osTicket-Installation-Files.zip and unzip it onto your desktop. name the foler osTicket-Installation-Files.
+We will use the files in this folder to install osTicket and some of the dependencies.
+</p>
+<img width="1023" height="540" alt="image" src="https://github.com/user-attachments/assets/f49c2afc-fcd5-46c8-a040-ddb67d23d1fd" />
+<br />
+
+##Step 4: Enable IIS in Windows WITH CGI. Control Panel → Programs → Turn Windows Features On or Off → and check Internet Information Services, World Wide Web Services, Application Development features, then CGI.
 </p>
 <img width="350" alt="IIS Setup" src="https://github.com/user-attachments/assets/3ccbad3f-0437-4dc1-b6b4-5a51d309cb01" />  
 <br />
 
-##Step 3: Install PHP Manager for IIS  
+##Step 5: Install PHP Manager for IIS  
 </p>
 <p><img width="400" alt="PHP Manager" src="https://github.com/user-attachments/assets/7142cc37-8375-43b9-ae08-cbfe247706b7" />  
 <br />
 
-##Step 4: Install IIS Rewrite Module  
+##Step 6: Install IIS Rewrite Module  
 </p>
 <img width="400" alt="Rewrite Module" src="https://github.com/user-attachments/assets/890ba926-4c12-42c6-9eaa-5206bda0cd95" />  
 <br />
   
-##Step 5: Download and install MySQL Server.  
+##Step 7: Download and install MySQL Server.  
 </p>
 <img width="400" alt="MySQL Setup" src="https://github.com/user-attachments/assets/109d1b0b-f8c2-4bd1-8dd2-cf9a5a32d818" />  
 <br />

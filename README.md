@@ -102,12 +102,16 @@ We will use the files in this folder to install osTicket and some of the depende
 <img width="600"  alt="image" src="https://github.com/user-attachments/assets/120b7ba8-5bef-4228-9864-4ac86e4a08ae" />
 <br />
 
-##Step 12: Load osTicket browser. IIS > Site > Default Web site > osTicket. ON the right click "Browse 80"
+##Step 12: Browse osTicket. IIS > Site > Default Web site > osTicket. On the right click "Browse 80"
 </p>
 <img width="600"  alt="image" src="https://github.com/user-attachments/assets/3b90cfe2-c879-49d3-a64b-e47aff7bd6a3" />
 <br />
 
-##Step 12: Install HeidiSQL Open HeidiSQL → Create session → Connect → Create database named `osTicket`.  
+##Step 13: Note some extentions on osTicket are not enabled. Go to IIS > Sites > Default > osTicket. Double Click PHP Manager and enable php_imap.dll, php_intl.dll, php_opcache.dll. Refresh the osTicket site in your browser, observe the changes.
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/7c8cabc2-9b4d-48ab-b1d4-63ff45455fe0" />
+<br />
+
+##Step 1: Install HeidiSQL Open HeidiSQL → Create session → Connect → Create database named `osTicket`.  
 </p>
 <p><img width="600" alt="HeidiSQL" src="https://github.com/user-attachments/assets/fac796b1-6384-4be6-a749-6fd26f4c8160" />  
 <br />

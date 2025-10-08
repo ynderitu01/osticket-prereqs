@@ -123,7 +123,7 @@ We will use the files in this folder to install osTicket and some of the depende
 
 ##Step 16: Continue Setting up osTicket in the browser (click Continue) > Name Helpdesk > Default email (receives email from customers)
 </p>
-<img width="600" height="981" alt="image" src="https://github.com/user-attachments/assets/9c5cf6c2-acde-4912-8e9c-e5a64a17fd7d" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b1df63cf-993a-430d-a97c-f6b3f6a5340f" />
 <br />
 
  ##Step 16: From the “osTicket-Installation-Files, install HeidiSQL. Open Heidi SQL > Create a new session, root/root > Connect to the session > Create a database called “osTicket”
@@ -138,6 +138,10 @@ We will use the files in this folder to install osTicket and some of the depende
 
 ##🎉Done!  
 You now have osTicket successfully installed on your VM.  
+</p>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/26c9aa1f-a32d-4ec1-8273-4224e3c9a7da" />
+<br />
+
 Next steps: configure departments, users, SLAs, and email piping for full help desk functionality.  
 
 

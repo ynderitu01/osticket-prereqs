@@ -43,7 +43,7 @@ It covers setting up IIS, PHP, MySQL, HeidiSQL, and completing the osTicket inst
 - osTicket v1.15.8
 - HeidiSQL
 
-<h2>Installation Steps</h2>
+## 🛠️ Installation Steps
 
 ##Step 1: Create an Azure Virtual Machine with Windows 10, 4 vCPUs. Name the Virtual Machine osticket-vm and create user name and pasword.
 </p>

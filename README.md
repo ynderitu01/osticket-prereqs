@@ -93,10 +93,9 @@ We will use the files in this folder to install osTicket and some of the depende
 <img width="400" alt="MySQL Setup" src="https://github.com/user-attachments/assets/109d1b0b-f8c2-4bd1-8dd2-cf9a5a32d818" />  
 <br />
 
-##Step 10: Open IIS as an Admin Register PHP from within IIS. Then reload (Open IIS, Stop and Start the Server)
+##Step 10: Open IIS as an Admin Register PHP from within IIS. Windows > IIS run as admin> PHP> php-7.3.8-nts-Win32-VC15-x86 > php-cgi. Then reload (Open IIS, Stop and Start the Server)
 </p>
-<img width="600" alt="Register PHP" src="https://github.com/user-attachments/assets/d29445fa-a1bd-41b9-84dd-68384a2f8dad" /> 
-<br />
+<img width="1483" height="1087" alt="image" src="https://github.com/user-attachments/assets/2086f773-27f0-4026-8730-0b4bb5db0d80" />
 
 ##Step 11: Install osTicket-v1.15.8. Copy osTicket-v1.15.8 upload folder into c:\inetpub\wwwroot and rename the upload folder to osTicket. Then reload IIS. (Open IIS Stop and Start Server)
 </p>

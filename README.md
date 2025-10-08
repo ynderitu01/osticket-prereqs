@@ -88,8 +88,7 @@ We will use the files in this folder to install osTicket and some of the depende
 </p>
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/a09506f0-6837-41c8-be31-2c18e45ad20d" />
 <br />
-
-##Step 7: From osTicket-Installation-Files download and install MySQL Server.  
+##Step 9: From osTicket-Installation-Files download and install MySQL 5.5.62. Then click on Agree > Typical Setup > Launch Configuation Wizard (after install)> Standard Configuration> set user name and password.
 </p>
 <img width="400" alt="MySQL Setup" src="https://github.com/user-attachments/assets/109d1b0b-f8c2-4bd1-8dd2-cf9a5a32d818" />  
 <br />

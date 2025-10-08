@@ -35,7 +35,8 @@ It covers setting up IIS, PHP, MySQL, HeidiSQL, and completing the osTicket inst
 <h2>✅List of Prerequisites</h2>
 
 - Azure Virtual Machine running Windows 10, 4 vCPUs
-- Renote Desktop Log in
+- Remote Desktop Log in
+- osTicket-Installation-Files
 - Internet Information Services (IIS) installed  
 - PHP Manager for IIS  
 - Rewrite Module for IIS  
@@ -77,7 +78,7 @@ We will use the files in this folder to install osTicket and some of the depende
 </p>
 <img width="400" alt="Rewrite Module" src="https://github.com/user-attachments/assets/890ba926-4c12-42c6-9eaa-5206bda0cd95" />  
 <br />
-  
+
 ##Step 7: Download and install MySQL Server.  
 </p>
 <img width="400" alt="MySQL Setup" src="https://github.com/user-attachments/assets/109d1b0b-f8c2-4bd1-8dd2-cf9a5a32d818" />  

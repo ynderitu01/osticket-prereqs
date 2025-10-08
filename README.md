@@ -22,15 +22,13 @@ It covers setting up IIS, PHP, MySQL, HeidiSQL, and completing the osTicket inst
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
-<h2>Environments and Technologies Used</h2>
-
-- Microsoft Azure (Virtual Machines/Compute)
+### 🧰 Environments and Technologies Used
+- Microsoft Azure (Virtual Machines / Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
-
-- Windows 10</b> (21H2)
+### 💻 Operating System Used
+- **Windows 10 (21H2)**
 
 <h2>✅List of Prerequisites</h2>
 

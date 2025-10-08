@@ -111,9 +111,19 @@ We will use the files in this folder to install osTicket and some of the depende
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/4e779c3a-d8e0-4099-846d-a3ceb68c3265" />
 <br />
 
-##Step : Install HeidiSQL Open HeidiSQL → Create session → Connect → Create database named `osTicket`.  
+##Step 14: Rename ost-config.php. From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+<p>
+<img width="600" height="830" alt="image" src="https://github.com/user-attachments/assets/a407798d-eb07-4936-8ff8-145412bb34ec" />
+<br />
+
+##Step 15: Assign Permissions: Righ click ost-config.php > Properties > Security > Advance > Disable inheritance -> Remove All New Permissions >Everyone -> All
 </p>
-<p><img width="600" alt="HeidiSQL" src="https://github.com/user-attachments/assets/fac796b1-6384-4be6-a749-6fd26f4c8160" />  
+<img width="610" alt="image" src="https://github.com/user-attachments/assets/9cc756a5-fc2e-4fe6-b26d-644e28e33699" />
+<br />
+
+ ##Step 16: From the “osTicket-Installation-Files, install HeidiSQL. Open Heidi SQL > Create a new session, root/root > Connect to the session > Create a database called “osTicket”
+</p>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/df632000-9f76-4836-8257-0ac5cd563fad" />
 <br />
 
 ##Step 13: Complete osTicket Setup In browser → Assign permissions → Click Install Now.  

@@ -88,27 +88,27 @@ We will use the files in this folder to install osTicket and some of the depende
 </p>
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/a09506f0-6837-41c8-be31-2c18e45ad20d" />
 <br />
-##Step 9: From osTicket-Installation-Files download and install MySQL 5.5.62. Then click on Agree > Typical Setup > Launch Configuation Wizard (after install)> Standard Configuration> set user name and password.
+##Step 9: From osTicket-Installation-Files download and install MySQL 5.5.62 (mysql-5.5.62-win32). Then click on Agree > Typical Setup > Launch Configuation Wizard (after install)> Standard Configuration> set user name and password.
 </p>
 <img width="400" alt="MySQL Setup" src="https://github.com/user-attachments/assets/109d1b0b-f8c2-4bd1-8dd2-cf9a5a32d818" />  
 <br />
 
-##Step 6: Open IIS as an Admin and Register PHP from within IIS. Then reload (Open IIS, Stop and Start the Server)
+##Step 10: Open IIS as an Admin and Register PHP from within IIS. Then reload (Open IIS, Stop and Start the Server)
 </p>
 <img width="600" alt="Register PHP" src="https://github.com/user-attachments/assets/d29445fa-a1bd-41b9-84dd-68384a2f8dad" /> 
 <br />
 
-##Step 7: Install osTicket-v1.15.8. Copy osTicket-v1.15.8 upload folder into c:\inetpub\wwwroot and rename the upload folder to osTicket. Then reload IIS. (Open IIS Stop and Start Server)
+##Step 11: Install osTicket-v1.15.8. Copy osTicket-v1.15.8 upload folder into c:\inetpub\wwwroot and rename the upload folder to osTicket. Then reload IIS. (Open IIS Stop and Start Server)
 </p>
 <img width="600" alt="osTicket Install" src="https://github.com/user-attachments/assets/5e29266a-9418-4898-9a41-b44272b35eb7" />  
 <br />
 
-##Step 8: Install HeidiSQL Open HeidiSQL → Create session → Connect → Create database named `osTicket`.  
+##Step 12: Install HeidiSQL Open HeidiSQL → Create session → Connect → Create database named `osTicket`.  
 </p>
 <p><img width="600" alt="HeidiSQL" src="https://github.com/user-attachments/assets/fac796b1-6384-4be6-a749-6fd26f4c8160" />  
 <br />
 
-##Step 9: Complete osTicket Setup In browser → Assign permissions → Click Install Now.  
+##Step 13: Complete osTicket Setup In browser → Assign permissions → Click Install Now.  
 </p>
 <p><img width="600" alt="osTicket Setup" src="https://github.com/user-attachments/assets/9d061bd1-103c-495c-8d75-201a9bec322e" /> 
 <br />

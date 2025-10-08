@@ -34,17 +34,16 @@ It covers setting up IIS, PHP, MySQL, HeidiSQL, and completing the osTicket inst
 
 <h2>✅List of Prerequisites</h2>
 
-- Azure Virtual Machine running Windows 10, 4 vCPUs
-- Remote Desktop Log in
-- osTicket-Installation-Files
-- Internet Information Services (IIS) installed  
-- PHP Manager for IIS  
-- Rewrite Module for IIS  
-- MySQL Database
-- Register PHP from within IIS
-- Install osTicket-v1.15.8
-- Install HeidiSQL
-- Complete osTicket set up
+- Azure Virtual Machine (Windows 10, 4 vCPUs)
+- Remote Desktop login access
+- osTicket Installation Files
+- IIS with CGI enabled
+- PHP Manager for IIS
+- IIS Rewrite Module
+- MySQL Database (v5.5.62)
+- Register PHP in IIS
+- osTicket v1.15.8
+- HeidiSQL
 
 <h2>Installation Steps</h2>
 

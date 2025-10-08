@@ -97,9 +97,9 @@ We will use the files in this folder to install osTicket and some of the depende
 </p>
 <img width="800"  alt="image" src="https://github.com/user-attachments/assets/2086f773-27f0-4026-8730-0b4bb5db0d80" />
 
-##Step 11: Install osTicket-v1.15.8. Copy osTicket-v1.15.8 upload folder into c:\inetpub\wwwroot and rename the upload folder to osTicket. Then reload IIS. (Open IIS Stop and Start Server)
+##Step 11: Install osTicket-v1.15.8. From osTicket-Installation-Files unzip osTicket-v1.15.8 > copy upload folder into c:\inetpub\wwwroot and rename the upload folder to osTicket. Then reload IIS. (Open IIS Stop and Start Server)
 </p>
-<img width="600" alt="osTicket Install" src="https://github.com/user-attachments/assets/5e29266a-9418-4898-9a41-b44272b35eb7" />  
+<img width="600" height="629" alt="image" src="https://github.com/user-attachments/assets/5ce68659-18e2-4426-9b1e-3b9bb20acae4" />
 <br />
 
 ##Step 12: Install HeidiSQL Open HeidiSQL → Create session → Connect → Create database named `osTicket`.  

@@ -50,7 +50,7 @@ It covers setting up IIS, PHP, MySQL, HeidiSQL, and completing the osTicket inst
 <img width="700" alt="Azure VM" src="https://github.com/user-attachments/assets/01d2dee9-e759-4b39-9d0f-5879c7e7f14b" />  
 <br />
 
-##Step 2: Log into the VM with Remote Desktop using the VM Public IP address. 
+##Step 2: Use the VM Public IP address to login to Remote Desktop
 </p> 
 <img width="600" alt="Screenshot 2025-10-07 181642" src="https://github.com/user-attachments/assets/2b2b5052-ddaa-4e35-a6f5-2974beb74981" />
 <br />

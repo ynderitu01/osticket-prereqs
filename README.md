@@ -144,6 +144,7 @@ You now have osTicket successfully installed on your VM.
 Next steps: configure departments, users, SLAs, and email piping for full help desk functionality.  
 
 💡 *Created by Yvonne Nderitu (https://www.linkedin.com/in/yvonne-nderitu-7a2513313)
+</p>
 🏷️ *Microsoft Azure | IIS | MySQL | PHP | osTicket | Help Desk Systems*
 
 

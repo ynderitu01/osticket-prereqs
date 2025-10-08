@@ -128,12 +128,12 @@ We will use the files in this folder to install osTicket and some of the depende
 
  ##Step 16: From the “osTicket-Installation-Files, install HeidiSQL. Open Heidi SQL > Create a new session, root/root > Connect to the session > Create a database called “osTicket”
 </p>
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/df632000-9f76-4836-8257-0ac5cd563fad" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/df632000-9f76-4836-8257-0ac5cd563fad" />
 <br />
 
-##Step 13: Complete osTicket Setup In browser → Assign permissions → Click Install Now.  
+##Step 13: Continue Setting up osTicket in the browser > MySQL Database: osTicket >MySQL Username: root > MySQL Password: root > Click “Install Now!”
 </p>
-<p><img width="600" alt="osTicket Setup" src="https://github.com/user-attachments/assets/9d061bd1-103c-495c-8d75-201a9bec322e" /> 
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/5f649859-4d83-4123-9330-8dba70911bb3" />
 <br />
 
 ##🎉Done!  

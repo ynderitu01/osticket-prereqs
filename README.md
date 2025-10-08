@@ -30,7 +30,7 @@ It covers setting up IIS, PHP, MySQL, HeidiSQL, and completing the osTicket inst
 ### 💻 Operating System Used
 - **Windows 10 (21H2)**
 
-<h2>✅List of Prerequisites</h2>
+### ✅ List of Prerequisites
 
 - Azure Virtual Machine (Windows 10, 4 vCPUs)
 - Remote Desktop login access

@@ -60,6 +60,7 @@ Create a Windows 10 VM, with 4 vCPUs. Name it osticket-vm and create user name a
 ##Step 3: Within the VM (osticket-vm), download osTicket-Installation-Files.zip and unzip it onto your desktop. name the foler osTicket-Installation-Files.
 We will use the files in this folder to install osTicket and some of the dependencies.
 </p>
+</p>
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/eb6fae71-1eac-4690-b202-c003510a6939" />
 <br />
 

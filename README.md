@@ -138,10 +138,13 @@ We will use the files in this folder to install osTicket and some of the depende
 ##🎉Done!  
 You now have osTicket successfully installed on your VM.  
 </p>
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/26c9aa1f-a32d-4ec1-8273-4224e3c9a7da" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/0441f95f-b941-4b98-9451-8e8be64f15d5" />
 <br />
 
 Next steps: configure departments, users, SLAs, and email piping for full help desk functionality.  
+
+💡 *Created by Yvonne Nderitu (https://www.linkedin.com/in/yvonne-nderitu-7a2513313)
+🏷️ *Microsoft Azure | IIS | MySQL | PHP | osTicket | Help Desk Systems*
 
 
 

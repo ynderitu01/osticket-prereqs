@@ -46,7 +46,8 @@ It covers setting up IIS, PHP, MySQL, HeidiSQL, and completing the osTicket inst
 ## 🛠️ Installation Steps
 
 ##Step 1: Create an Azure Virtual Machine 
-Create a **Windows 10 VM, with 4 vCPUs. Name it osticket-vm and create user name and pasword.
+
+Create a Windows 10 VM, with 4 vCPUs. Name it osticket-vm and create user name and pasword.
 <img width="700" alt="Azure VM" src="https://github.com/user-attachments/assets/01d2dee9-e759-4b39-9d0f-5879c7e7f14b" />  
 
 ##Step 2: Use the VM Public IP address to login to Remote Desktop

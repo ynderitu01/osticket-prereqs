@@ -121,6 +121,11 @@ We will use the files in this folder to install osTicket and some of the depende
 <img width="610" alt="image" src="https://github.com/user-attachments/assets/9cc756a5-fc2e-4fe6-b26d-644e28e33699" />
 <br />
 
+##Step 16: Continue Setting up osTicket in the browser (click Continue) > Name Helpdesk > Default email (receives email from customers)
+</p>
+<img width="600" height="981" alt="image" src="https://github.com/user-attachments/assets/9c5cf6c2-acde-4912-8e9c-e5a64a17fd7d" />
+<br />
+
  ##Step 16: From the “osTicket-Installation-Files, install HeidiSQL. Open Heidi SQL > Create a new session, root/root > Connect to the session > Create a database called “osTicket”
 </p>
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/df632000-9f76-4836-8257-0ac5cd563fad" />

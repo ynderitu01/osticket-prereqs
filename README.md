@@ -81,7 +81,7 @@ We will use the files in this folder to install osTicket and some of the depende
 
 ##step 7: Create the directory C:\PHP and unzip (php-7.3.8-nts-Win32-VC15-x86) into the C:\PHP
 </p>
-<img width="800" height="599" alt="image" src="https://github.com/user-attachments/assets/f93a3a0c-30ef-449e-88a8-905071b59353" />
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/f93a3a0c-30ef-449e-88a8-905071b59353" />
 <br />
 
 ##Step 7: Download and install MySQL Server.  

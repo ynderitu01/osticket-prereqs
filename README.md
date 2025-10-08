@@ -95,11 +95,11 @@ We will use the files in this folder to install osTicket and some of the depende
 
 ##Step 10: Open IIS as an Admin Register PHP from within IIS. Windows > IIS run as admin> PHP> php-7.3.8-nts-Win32-VC15-x86 > php-cgi. Then reload (Stop and Start the Server)
 </p>
-<img width="800"  alt="image" src="https://github.com/user-attachments/assets/2086f773-27f0-4026-8730-0b4bb5db0d80" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/2086f773-27f0-4026-8730-0b4bb5db0d80" />
 
 ##Step 11: Install osTicket-v1.15.8. From osTicket-Installation-Files unzip osTicket-v1.15.8 > copy upload folder into c:\inetpub\wwwroot and rename the upload folder to osTicket. Then reload IIS. (Open IIS Stop and Start Server)
 </p>
-<img width="700" height="629" alt="image" src="https://github.com/user-attachments/assets/120b7ba8-5bef-4228-9864-4ac86e4a08ae" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/120b7ba8-5bef-4228-9864-4ac86e4a08ae" />
 <br />
 
 ##Step 12: Install HeidiSQL Open HeidiSQL → Create session → Connect → Create database named `osTicket`.  

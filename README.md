@@ -79,6 +79,11 @@ We will use the files in this folder to install osTicket and some of the depende
 <img width="400" alt="Rewrite Module" src="https://github.com/user-attachments/assets/890ba926-4c12-42c6-9eaa-5206bda0cd95" />  
 <br />
 
+##step 7: Create the directory C:\PHP and unzip (php-7.3.8-nts-Win32-VC15-x86) into the C:\PHP
+</p>
+<img width="800" height="599" alt="image" src="https://github.com/user-attachments/assets/f93a3a0c-30ef-449e-88a8-905071b59353" />
+<br />
+
 ##Step 7: Download and install MySQL Server.  
 </p>
 <img width="400" alt="MySQL Setup" src="https://github.com/user-attachments/assets/109d1b0b-f8c2-4bd1-8dd2-cf9a5a32d818" />  
